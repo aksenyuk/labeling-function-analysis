@@ -1,7 +1,7 @@
 # Education Level Patterns Data Mining Project
 ## WIiT, AI, 4th Semester, 2022
 
-Labelling Function analysis of the rules derrived with CART tree algorithm. The results show which reles are indeed trustworthy.
+Labeling Function analysis of the rules derived with CART tree algorithm. The results show which rules are indeed trustworthy.
 
 ### Team members: 
  - **Sofya Aksenyuk, 150284**
